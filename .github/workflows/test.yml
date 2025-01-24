@@ -69,4 +69,4 @@ jobs:
         run: npm run test
 
       - name: Upload coverage
-        uses: codecov/codecov-action@5a605bd92782ce0810fa3b8acc235c921b497052 # pin@5.2.0
+        uses: codecov/codecov-action@0da7aa657d958d32c117fc47e1f977e7524753c7 # pin@5.3.0
